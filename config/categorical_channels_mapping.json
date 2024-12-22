@@ -1,0 +1,102 @@
+{
+    "gender": {
+        "F": 0,
+        "M": 1
+    },
+    "ethnicity": {
+        "AMERICAN INDIAN/ALASKA NATIVE": 0,
+        "ASIAN": 1,
+        "ASIAN - ASIAN INDIAN": 2,
+        "ASIAN - CHINESE": 3,
+        "ASIAN - KOREAN": 4,
+        "ASIAN - SOUTH EAST ASIAN": 5,
+        "BLACK/AFRICAN": 6,
+        "BLACK/AFRICAN AMERICAN": 7,
+        "BLACK/CAPE VERDEAN": 8,
+        "BLACK/CARIBBEAN ISLAND": 9,
+        "HISPANIC OR LATINO": 10,
+        "HISPANIC/LATINO - CENTRAL AMERICAN": 11,
+        "HISPANIC/LATINO - COLUMBIAN": 12,
+        "HISPANIC/LATINO - CUBAN": 13,
+        "HISPANIC/LATINO - DOMINICAN": 14,
+        "HISPANIC/LATINO - GUATEMALAN": 15,
+        "HISPANIC/LATINO - HONDURAN": 16,
+        "HISPANIC/LATINO - MEXICAN": 17,
+        "HISPANIC/LATINO - PUERTO RICAN": 18,
+        "HISPANIC/LATINO - SALVADORAN": 19,
+        "MULTIPLE RACE/ETHNICITY": 20,
+        "NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER": 21,
+        "OTHER": 22,
+        "PATIENT DECLINED TO ANSWER": 23,
+        "PORTUGUESE": 24,
+        "SOUTH AMERICAN": 25,
+        "UNABLE TO OBTAIN": 26,
+        "UNKNOWN": 27,
+        "WHITE": 28,
+        "WHITE - BRAZILIAN": 29,
+        "WHITE - EASTERN EUROPEAN": 30,
+        "WHITE - OTHER EUROPEAN": 31,
+        "WHITE - RUSSIAN": 32,
+        "nan": 33
+    },
+    "chiefcom_chest_pain": {
+        "False": 0,
+        "True": 1
+    },
+    "chiefcom_abdominal_pain": {
+        "False": 0,
+        "True": 1
+    },
+    "chiefcom_headache": {
+        "False": 0,
+        "True": 1
+    },
+    "chiefcom_shortness_of_breath": {
+        "False": 0,
+        "True": 1
+    },
+    "chiefcom_back_pain": {
+        "False": 0,
+        "True": 1
+    },
+    "chiefcom_cough": {
+        "False": 0,
+        "True": 1
+    },
+    "chiefcom_nausea_vomiting": {
+        "False": 0,
+        "True": 1
+    },
+    "chiefcom_fever_chills": {
+        "False": 0,
+        "True": 1
+    },
+    "chiefcom_syncope": {
+        "False": 0,
+        "True": 1
+    },
+    "chiefcom_dizziness": {
+        "False": 0,
+        "True": 1
+    },
+    "outcome_hospitalization": {
+        "False": 0,
+        "True": 1
+    },
+    "outcome_inhospital_mortality": {
+        "False": 0,
+        "True": 1
+    },
+    "outcome_icu_transfer_12h": {
+        "False": 0,
+        "True": 1
+    },
+    "outcome_critical": {
+        "False": 0,
+        "True": 1
+    },
+    "outcome_ed_revisit_3d": {
+        "False": 0,
+        "True": 1
+    }
+}
